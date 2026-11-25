@@ -63,7 +63,7 @@
         "gdelt": {
             "category": "news",
             "country": null,
-            "enabled": true,
+            "enabled": false,
             "language": null,
             "max_records": 75,
             "mode": "ArtList",
@@ -93,7 +93,7 @@
             "country": "US",
             "enabled": true,
             "language": "en",
-            "max_results": 100,
+            "max_results": 20,
             "profile": "tech-news",
             "query": "artificial intelligence"
         },
