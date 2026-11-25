@@ -63,7 +63,7 @@
         "gdelt": {
             "category": "news",
             "country": null,
-            "enabled": false,
+            "enabled": true,
             "language": null,
             "max_records": 75,
             "mode": "ArtList",
@@ -91,7 +91,7 @@
             "category": "news",
             "ceid": null,
             "country": "US",
-            "enabled": false,
+            "enabled": true,
             "language": "en",
             "max_results": 100,
             "profile": "tech-news",
@@ -167,6 +167,38 @@
                 "name": "Sean Goedecke",
                 "profile": "tech-blog",
                 "url": "https://www.seangoedecke.com/rss.xml"
+            },
+            {
+                "category": "technology",
+                "content_extractor": "trafilatura",
+                "enabled": true,
+                "name": "The Verge",
+                "profile": "tech-news",
+                "url": "https://www.theverge.com/rss/index.xml"
+            },
+            {
+                "category": "technology",
+                "content_extractor": "trafilatura",
+                "enabled": true,
+                "name": "MIT Technology Review",
+                "profile": "tech-news",
+                "url": "https://www.technologyreview.com/feed/"
+            },
+            {
+                "category": "technology",
+                "content_extractor": "trafilatura",
+                "enabled": true,
+                "name": "Ars Technica",
+                "profile": "tech-news",
+                "url": "https://arstechnica.com/feed/"
+            },
+            {
+                "category": "ai-tools",
+                "content_extractor": "trafilatura",
+                "enabled": true,
+                "name": "Hugging Face Blog",
+                "profile": "tech-news",
+                "url": "https://huggingface.co/blog/feed.xml"
             }
         ],
         "telegram": {
