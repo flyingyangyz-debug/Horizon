@@ -8,7 +8,7 @@
             "en"
         ],
         "max_tokens": 8192,
-        "model": "gemini-3.8-flash",
+        "model": "gemini-3.5-flash-lite",
         "provider": "gemini",
         "temperature": 0.3,
         "throttle_sec": 1
